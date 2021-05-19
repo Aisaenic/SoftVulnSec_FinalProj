@@ -1,7 +1,7 @@
-# SoftVulnSec_FinalProj
-Network Intrusion Detection System built by Emily Gao and Matthew O'Donnell.
-
+# Network Intrusion Detection System
 Supports three security modules for ARP cache poisoning, TCP reset injection, and Denial of Service (currently SYN, ICMP, and UDP Floods) attack detection.
+
+Built by Emily Gao and Matthew O'Donnell.
 ## Environment Setup
 To build the docker container:
 
